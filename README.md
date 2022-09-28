@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GilangKharisma
 - 👀 I’m interested in linux, web programing
 - 🌱 I’m currently learning linux, html, css, javascript, mysql, php
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on hacktoberfest
 - 📫 How to reach me ...
 
 <!---
