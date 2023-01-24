@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GilangKharisma
+- 👋 Hi, I’m @gilangkharisma
 - 👀 I’m interested in linux, web programing
 - 🌱 I’m currently learning linux, html, css, javascript, mysql, php
 - 💞️ I’m looking to collaborate on hacktoberfest
